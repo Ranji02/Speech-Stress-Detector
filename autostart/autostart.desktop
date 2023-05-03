@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=Speech Stress Detector
+Exec=/home/pi/.config/autostart/SpeechStressDetector
